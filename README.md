@@ -6,7 +6,7 @@ AtlasRepeatChecker helps Unity developers identify textures that are being used 
 
 ## Demo
 
-<!-- > ![](https://github.com/user-attachments/assets/cff8a344-2218-4361-ad31-a73f6cea1345) -->
+> ![](https://github.com/user-attachments/assets/f3bcfd8e-3aa9-4e89-bdbe-7e0d7d7f106f)
 
 ## Features
 - Multi-Source Support: Analyze multiple folders and individual atlas files
