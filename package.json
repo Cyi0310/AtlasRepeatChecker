@@ -1,10 +1,12 @@
 {
   "name": "com.cyi.atlasrepeatchecker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "AtlasRepeatChecker",
-  "description": "A Unity Editor tool to detect repeat textures across multiple Sprite Atlases by analyzing their GUIDs.",
+  "documentationUrl": "https://github.com/Cyi0310/AtlasRepeatChecker/blob/main/README.md",
+  "description": "A Unity Editor tool to detect repeat sprite/texture across multiple Sprite Atlases by analyzing their GUIDs.",
   "unity": "2021.3",
   "license": "MIT",
+  "licensesUrl": "https://github.com/Cyi0310/AtlasRepeatChecker/blob/main/LICENSE.md",
   "author": {
     "name": "CYi"
   },
